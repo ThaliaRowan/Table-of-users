@@ -14,3 +14,8 @@ https://drive.google.com/file/d/1nTzzggVjXuTaTts5QA_FFO2ZwMifAUBt/view
 
 
 ## Link To Deployed Application
+https://thaliarowan.github.io/Table-of-users/.
+
+## Link to github repository
+
+https://github.com/ThaliaRowan/Table-of-users.git
